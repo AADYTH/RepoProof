@@ -1,0 +1,12 @@
+# Secrets
+.env
+backend/.env
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Debug
+test-api.html
